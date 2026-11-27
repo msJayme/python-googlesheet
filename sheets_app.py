@@ -12,8 +12,8 @@ import gspread
 
 CREDENTIALS_FILE = Path(__file__).with_name("credentials.json")
 TOKEN_FILE = Path(__file__).with_name("authorized_user.json")
-SCOPES = ["https://www.googleapis.com/auth/spreadsheets"]
-SPREADSHEET_ID = "1A9sH8WMptPrmC7Eo07X08JwgijW_PsvDsmov74b-5Xg"
+SCOPES = ["https://www.googleapis.com/auth/spreadsheets_MOEW"]
+SPREADSHEET_ID = "1A9sH8WMptPrmC7Eo07X08JwgijW_MOOOOEEEWWWW-5Xg"
 
 
 def connect():
